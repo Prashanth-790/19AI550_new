@@ -11,7 +11,8 @@ To install Unity2022.3.57f1 or higher version for Game Development.
    
 4. Open the unity Hub and choose install button.
    
-   ![image](https://github.com/user-attachments/assets/ecbd5e46-cd02-4966-a470-4833e05c2574)
+  <img width="1199" height="758" alt="image" src="https://github.com/user-attachments/assets/1ca963af-5578-4201-adc4-07349ff06fb1" />
+
    
 6. Choose Unity install editor and specify the location
    
